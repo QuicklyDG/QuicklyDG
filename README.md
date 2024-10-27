@@ -1,5 +1,7 @@
-## Hi there 👋
+## 🅷🅸 🆃🅷🅴🆁🅴 👋
 
+
+![Fun GIF](https://media.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif)
 <!--
 **QuicklyDG/QuicklyDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
